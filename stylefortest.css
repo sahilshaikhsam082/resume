@@ -308,9 +308,10 @@ nav a:hover{
 
     header h1{
   
+    width: 184px;
     float: right;
-    margin-right: -63%;
-    margin-top: 6%;
+    margin-right: -62%;
+    margin-top: 0%;
     margin-left: 4%;
   
    }                
